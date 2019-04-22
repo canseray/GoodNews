@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "239929237957",
+    "firebase_url": "https://goodnews-c7ac0.firebaseio.com",
+    "project_id": "goodnews-c7ac0",
+    "storage_bucket": "goodnews-c7ac0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239929237957:android:30ceaa0927e152b0",
+        "android_client_info": {
+          "package_name": "com.example.goodnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239929237957-0mg29er3m8p2shkbq2uu8r8rrvoiivud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.goodnews",
+            "certificate_hash": "4bb7e3eb33a800b80e485f47a0bb79553fe7bfe9"
+          }
+        },
+        {
+          "client_id": "239929237957-hml30f1r6lb3ceklkqe39qth6paqsfvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtyC0dtOAkko1anmaKboekbj6vRKYUTKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239929237957-hml30f1r6lb3ceklkqe39qth6paqsfvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
